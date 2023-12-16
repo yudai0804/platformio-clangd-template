@@ -1,6 +1,5 @@
 # PlatformIO template for Clangd
-このtemplate通りにやると、PlatformIO CLIでClangdを使ったコード補完ができるようになります。  
-このtemplateではtargetにesp32を指定していますが、ArduinoやSTM32等のマイコンでもできると思います。  
+このtemplate通りにやると、PlatformIO CLIでClangdを使ったコード補完ができるようになります。targetにesp32を指定していますが、ArduinoやSTM32等のマイコンでもできると思います。  
 
 # compile_commands.jsonって何？
 [compile_commands.jsonの参考](https://uchan.hateblo.jp/entry/2018/12/29/104132)  
